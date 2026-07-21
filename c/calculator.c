@@ -1,6 +1,6 @@
-/* 사칙연산 계산기 (C)
- * 빌드: gcc calculator.c -o calculator
- * 사용: 3 + 4 형태로 입력, q 입력 시 종료
+/* 
+사칙연산 계산기 (C)
+사용: 3 + 4 형태로 입력, q 입력 시 종료
  */
 #include <stdio.h>
 #include <string.h>
