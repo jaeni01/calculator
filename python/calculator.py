@@ -1,5 +1,4 @@
 # 사칙연산 계산기 (Python)
-# 실행: python calculator.py
 # 사용: 3 + 4 형태로 입력, q 입력 시 종료
 
 def main():
