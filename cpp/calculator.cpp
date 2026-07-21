@@ -1,5 +1,4 @@
 // 사칙연산 계산기 (C++)
-// 빌드: g++ calculator.cpp -o calculator
 // 사용: 3 + 4 형태로 입력, q 입력 시 종료
 #include <iostream>
 #include <sstream>
